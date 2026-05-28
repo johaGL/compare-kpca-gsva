@@ -6,7 +6,7 @@
 #SBATCH --mail-user=juana7@gmail.com
 #SBATCH --mail-type=ALL
 #SBATCH --nodes=1
-#SBATCH --mem=240G
+#SBATCH --mem=80G
 #SBATCH --ntasks-per-node=20
 #SBATCH --time=30:00:00
 ##################################################
