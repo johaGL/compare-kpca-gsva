@@ -16,11 +16,11 @@ scontrol show job $SLURM_JOB_ID
 eval "$(conda shell.bash hook)"  # this solves commandnotfounderror when conda activate
 
 
-conda activate r_gsva
+module load r_gsva
 
 cd /mnt/cbib/thesis_gbm/spatial_thesis/spatial_metabolomics/compare_2026/scripts2
 
-samples=$(cat ../the_data_list.tsv | cut -f 1 )   # Attention HERE!!!!!
+samples=$(cat ../the_data_list.tsv | cut -f 1 )
 
 for SAMPLE in ${samples[@]}; do
     if [ $SAMPLE != "dataset_name" ]; then
@@ -31,4 +31,3 @@ for SAMPLE in ${samples[@]}; do
         
 done
 
-echo "make sure ****head -n 4 ******is no longer here at all===check Attention HERE!!!!"
