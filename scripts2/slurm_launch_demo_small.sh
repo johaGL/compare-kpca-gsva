@@ -2,7 +2,7 @@
 ########################## Slurm options
 #SBATCH --job-name=gsva_spata2
 #SBATCH --output=/mnt/cbib/thesis_gbm/spatial_thesis/spatial_metabolomics/slurmout/gsva2026_%j.out
-#SBATCH --workdir=/mnt/cbib/thesis_gbm/spatial_thesis/spatial_metabolomics/
+#SBATCH --chdir=/mnt/cbib/thesis_gbm/spatial_thesis/spatial_metabolomics/
 #SBATCH --mail-user=juana7@gmail.com
 #SBATCH --mail-type=ALL
 #SBATCH --nodes=1
