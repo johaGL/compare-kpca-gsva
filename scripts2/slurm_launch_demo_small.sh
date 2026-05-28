@@ -1,14 +1,14 @@
 #!/bin/bash
 ########################## Slurm options
-#SBATCH --job-name=gsva2026
+#SBATCH --job-name=mini_gsva
 #SBATCH --output=/mnt/cbib/thesis_gbm/spatial_thesis/spatial_metabolomics/slurmout/gsva2026_%j.out
 #SBATCH --chdir=/mnt/cbib/thesis_gbm/spatial_thesis/spatial_metabolomics/
 #SBATCH --mail-user=juana7@gmail.com
 #SBATCH --mail-type=ALL
 #SBATCH --nodes=1
-#SBATCH --mem=80G
+#SBATCH --mem=64G
 #SBATCH --ntasks-per-node=20
-#SBATCH --time=30:00:00
+#SBATCH --time=3:00:00
 ##################################################
 
 # run: sbatch -p compute_long <SCRIPT>
