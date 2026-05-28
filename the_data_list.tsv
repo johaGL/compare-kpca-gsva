@@ -1,19 +1,13 @@
 dataset_name	annotations_to_use	pathways_types	min_pathway_size
-Brain-center-rat	HMDB LipidMaps	KEGG WIKI	2
-Stomach-rat	HMDB LIPID_MAPS	KEGG WIKI	2
-Gut-mouse	HMDB LipidMaps	KEGG WIKI	2
-Brain-wt1-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
-Brain-sgt-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
-Brain-trv-mouse	HMDB LipidMaps	KEGG WIKI	2
-Brain-demyel-mouse	HMDB LipidMaps	KEGG WIKI	2
-Brain-sgt-rat	HMDB LipidMaps	KEGG WIKI	2
-Brain-trv-rat	HMDB LipidMaps	KEGG WIKI	2
-Bladder-cancer-hum	HMDB LipidMaps	KEGG WIKI	2
-Heart-aorta-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
-Heart-sgt-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	3
+UBcalibr2	HMDB LipidMaps	KEGG WIKI	2
+UBcalibr1	HMDB LipidMaps	KEGG WIKI	2
+UBcalibr4	HMDB LipidMaps	KEGG WIKI	2
 Kidney-xenogr-1	HMDB LipidMaps	KEGG WIKI	2
 Kidney-xenogr-2	HMDB LipidMaps	KEGG WIKI	2
 Eye-mouse	HMDB LIPID_MAPS	KEGG WIKI	2
+Bladder-cancer-hum	HMDB LipidMaps	KEGG WIKI	2
+Heart-aorta-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
+Heart-sgt-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	3
 MALDI_248_T	HMDB	KEGG WIKI	2
 MALDI_259_T	HMDB	KEGG WIKI	2
 MALDI_260_T	HMDB	KEGG WIKI	2
@@ -26,6 +20,12 @@ Kidney-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
 Liver-brca-mouse	HMDB CoreMetabolome	KEGG WIKI	2
 Lung-mouse	HMDB LipidMaps	KEGG WIKI	2
 Ovary-ca-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
-UBcalibr2	HMDB LipidMaps	KEGG WIKI	2
-UBcalibr1	HMDB LipidMaps	KEGG WIKI	2
-UBcalibr4	HMDB LipidMaps	KEGG WIKI	2
+Brain-demyel-mouse	HMDB LipidMaps	KEGG WIKI	2
+Brain-center-rat	HMDB LipidMaps	KEGG WIKI	2
+Stomach-rat	HMDB LIPID_MAPS	KEGG WIKI	2
+Gut-mouse	HMDB LipidMaps	KEGG WIKI	2
+Brain-wt1-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
+Brain-sgt-mouse	HMDB LipidMaps CoreMetabolome	KEGG WIKI	2
+Brain-trv-mouse	HMDB LipidMaps	KEGG WIKI	2
+Brain-sgt-rat	HMDB LipidMaps	KEGG WIKI	2
+Brain-trv-rat	HMDB LipidMaps	KEGG WIKI	2
