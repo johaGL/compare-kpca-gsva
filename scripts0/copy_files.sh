@@ -1,5 +1,5 @@
 #!/bin/bash
-orig_dir="../../apollo-data"
+orig_dir="../../data"
 tissues=$(cat ../the_data_list.tsv | cut -f 1 )
 
 echo ${tissues[@]}
