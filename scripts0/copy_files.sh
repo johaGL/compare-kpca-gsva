@@ -1,6 +1,6 @@
 #!/bin/bash
 orig_dir="../../apollo-data"
-tissues=$(cat ../demo_data_list.tsv | cut -f 1 )
+tissues=$(cat ../the_data_list.tsv | cut -f 1 )
 
 echo ${tissues[@]}
 destination="../../compar_out_2026"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-samples=$(cat ../demo_data_list.tsv | cut -f 1 )
+samples=$(cat ../the_data_list.tsv | cut -f 1 )
 
 for SAMPLE in ${samples[@]}; do
     if [ $SAMPLE != "dataset_name" ]; then

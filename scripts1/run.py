@@ -19,7 +19,7 @@ def main(input_file, data_dir):
 
     usage:
     cd scripts1
-    python run.py ../demo_data_list.tsv ../../compar_out_2026
+    python run.py ../the_data_list.tsv ../../compar_out_2026
 
     \b
     Positional arguments:
