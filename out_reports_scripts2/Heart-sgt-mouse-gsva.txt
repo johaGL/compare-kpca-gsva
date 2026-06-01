@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  34604 218 
+Log transform matrix
+Computing GSVA: sample  Heart-sgt-mouse ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Heart-sgt-mouse-cmps-mx-KEGG-KEGG_gsva.tsv 
+Heart-sgt-mouse KEGG Execution time in seconds: 1265.904 

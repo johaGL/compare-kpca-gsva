@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  36528 318 
+Log transform matrix
+Computing GSVA: sample  Kidney-mouse ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Kidney-mouse-cmps-mx-KEGG-KEGG_gsva.tsv 
+Kidney-mouse KEGG Execution time in seconds: 1608.365 

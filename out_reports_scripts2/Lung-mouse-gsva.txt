@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  7962 34 
+Log transform matrix
+Computing GSVA: sample  Lung-mouse ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Lung-mouse-cmps-mx-KEGG-KEGG_gsva.tsv 
+Lung-mouse KEGG Execution time in seconds: 11.57899 

@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  12124 17 
+Log transform matrix
+Computing GSVA: sample  Eye-mouse ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Eye-mouse-cmps-mx-KEGG-KEGG_gsva.tsv 
+Eye-mouse KEGG Execution time in seconds: 9.737383 

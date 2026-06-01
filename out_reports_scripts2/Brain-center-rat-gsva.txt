@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  7034 17 
+Log transform matrix
+Computing GSVA: sample  Brain-center-rat ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Brain-center-rat-cmps-mx-KEGG-KEGG_gsva.tsv 
+Brain-center-rat KEGG Execution time in seconds: 4.065852 

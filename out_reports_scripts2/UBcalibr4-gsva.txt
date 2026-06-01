@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  15918 18 
+Log transform matrix
+Computing GSVA: sample  UBcalibr4 ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/UBcalibr4-cmps-mx-KEGG-KEGG_gsva.tsv 
+UBcalibr4 KEGG Execution time in seconds: 23.52494 

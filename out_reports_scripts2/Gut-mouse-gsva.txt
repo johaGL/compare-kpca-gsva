@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  50568 17 
+Log transform matrix
+Computing GSVA: sample  Gut-mouse ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Gut-mouse-cmps-mx-KEGG-KEGG_gsva.tsv 
+Gut-mouse KEGG Execution time in seconds: 168.4142 

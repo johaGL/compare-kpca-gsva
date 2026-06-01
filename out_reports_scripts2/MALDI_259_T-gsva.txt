@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  16943 111 
+Log transform matrix
+Computing GSVA: sample  MALDI_259_T ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/MALDI_259_T-cmps-mx-KEGG-KEGG_gsva.tsv 
+MALDI_259_T KEGG Execution time in seconds: 194.1733 

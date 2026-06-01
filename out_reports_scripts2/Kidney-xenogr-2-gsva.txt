@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  12667 8 
+Log transform matrix
+Computing GSVA: sample  Kidney-xenogr-2 ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Kidney-xenogr-2-cmps-mx-KEGG-KEGG_gsva.tsv 
+Kidney-xenogr-2 KEGG Execution time in seconds: 5.249744 

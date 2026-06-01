@@ -1,0 +1,5 @@
+loaded quantifications matrix of shape:  10916 38 
+Log transform matrix
+Computing GSVA: sample  Brain-wt1-mouse ...
+Sucess. Output tab delimited file saved to:  ../../compar_out_2026/Brain-wt1-mouse-cmps-mx-KEGG-KEGG_gsva.tsv 
+Brain-wt1-mouse KEGG Execution time in seconds: 17.58483 
