@@ -16,6 +16,7 @@ The steps were performed in order, always from `compare-kpca-gsva`:
   
 ```
 python3 compare_outs__gsva_kpca.py
+python3 plots_compare_outs.py
 python3 viz_runtime.py
 ```
 
