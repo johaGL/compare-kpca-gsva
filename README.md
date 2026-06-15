@@ -16,9 +16,10 @@ The steps were performed in order, always from `compare-kpca-gsva`:
   
 ```
 python3 compare_outs__gsva_kpca.py
+python3 plots_compare_outs.py
 python3 viz_runtime.py
 ```
 
-to run **k-PCA** (via SpacePath which in turn uses the sspa implementation of k-PCA).
+which ran **k-PCA** (via SpacePath which in turn uses the sspa implementation of k-PCA).
 
 The input matrices (compound resolved) as well as the reference pathways were the same for both methods.

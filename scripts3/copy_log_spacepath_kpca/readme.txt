@@ -1,0 +1,1 @@
+Obtained from the SpacePath logs (by default stored within the `logs/` folder of SpacePath pipeline folder)

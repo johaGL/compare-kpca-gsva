@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-"""Requires the tables produced by `compare_gsva_kpca.py`"""
+"""Requires the tables produced by `compare_outs__gsva_kpca.py`"""
 
 plt.rcParams.update({
     "font.family": "Arial",

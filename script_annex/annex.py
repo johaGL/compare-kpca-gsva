@@ -11,7 +11,7 @@ import smpath.processing.measures_methods as spm
 
 SAMPLE = "Stomach-rat"
 
-print(os.listdir(os.path.join( "../../apollo-gsva", "compar_out_2026")))
+print(os.listdir(os.path.join( "../../compar_out_2026")))
 
 #   f'{SAMPLE}-{pw_type}-CleanAnnotations.tsv')
 
@@ -55,10 +55,10 @@ for po in pws:
 
 ## --
 sco_gsva = pd.read_csv(os.path.join(
-         "../../apollo-gsva", "compar_out_2026",
+         "../../compar_out_2026",
     SAMPLE, f"{SAMPLE}-cmps-mx-KEGG-KEGG_gsva.tsv"
     ), sep='\t', index_col=0)
-coords_df = pd.read_csv(os.path.join( "../../apollo-gsva", "compar_out_2026",
+coords_df = pd.read_csv(os.path.join( "../../compar_out_2026",
                                                  SAMPLE, f'{SAMPLE}-coords.tsv'),
  sep='\t', index_col=0)
 

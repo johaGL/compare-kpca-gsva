@@ -202,8 +202,8 @@ def wrap_comp_moran(df:pd.DataFrame, coords_df:pd.DataFrame,
 
 if __name__ == '__main__':
 
-    out_parent_dir = '../../apollo-gsva/compar_out_2026'  # TODO: modify in server: compar_out_2026
-    dir_adata = "../../apollo-data" # TODO: modify in server: data
+    out_parent_dir = '../../compar_out_2026'  # TODO: modify in server: compar_out_2026
+    dir_adata = "../../data" # TODO: modify in server: data
 
     tisues_df = pd.read_csv("../the_data_list.tsv", sep="\t",
                               index_col=None, header=0)

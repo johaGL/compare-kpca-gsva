@@ -32,7 +32,7 @@ out_gsva_reps = "../out_reports_scripts2"
 out_kpca_logfiles = ["copy_log_spacepath_kpca/26-03-21_18-30-11-328845.log",
                      "copy_log_spacepath_kpca/26-03-21_19-07-52-280348.log"
                      ]
-data_orig = "../../apollo-data"
+data_orig = "../../data"
 
 input_file1 = "../the_data_list.tsv"
 df_data = pd.read_csv(input_file1,
