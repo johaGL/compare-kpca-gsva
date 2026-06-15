@@ -23,3 +23,11 @@ python3 viz_runtime.py
 which ran **k-PCA** (via SpacePath which in turn uses the sspa implementation of k-PCA).
 
 The input matrices (compound resolved) as well as the reference pathways were the same for both methods.
+
+
+
+
+
+______________
+
+author: Johanna Galvis
